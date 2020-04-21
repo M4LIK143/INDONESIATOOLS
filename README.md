@@ -10,3 +10,7 @@ $cd INDONESIATOOLS
 $ls
 $chmod +x *
 $./INDONESIATOOLS.py
+$ls
+$cd TOOLSINSTALLERv3
+$ls
+$sh TUANB4DUT.sh
